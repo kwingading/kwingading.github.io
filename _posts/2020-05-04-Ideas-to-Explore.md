@@ -1,4 +1,4 @@
-(to be updated + refined)
+// to be updated + refined // 
 
 I thought it'd be useful to keep a record of ideas that I want to explore further. I'm considering writing some blog posts on each topic:
 
