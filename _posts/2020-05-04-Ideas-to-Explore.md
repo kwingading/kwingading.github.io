@@ -1,6 +1,6 @@
 (to be updated + refined)
 
-I thought it'd be useful to keep a record of ideas that I want to explore further:
+I thought it'd be useful to keep a record of ideas that I want to explore further. I'm considering writing some blog posts on each topic:
 
 - cooperation (cultural values, restructuring incentives)
 
@@ -8,4 +8,6 @@ I thought it'd be useful to keep a record of ideas that I want to explore furthe
 
 - technocracy as an effective form of government
 
-- the role of public narratives
+- the role of public narratives 
+
+- how to reconcile emotion and reason (I often feel a disconnect between the two in terms of 'internalising' arguments/evidence) 
