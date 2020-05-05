@@ -2,7 +2,7 @@
 
 I thought it'd be useful to keep a record of ideas that I want to explore further. I'm considering writing some blog posts on each topic:
 
-- cooperation on different levels (esp interested in cultural values, mechanisms for restructuring incentives)
+- cooperation on different levels (esp interested in cooperation across cultures with different value systems, mechanisms for restructuring incentives), also keen to explore the differences in cooperation behaviour across different world cultures
 
 - redesigning the education system (sn: when I say redesigning, I don't mean finding a single substitute. It's probably more useful to identify the goals we have and then considering how the new system(s) can take these into account - or even achieving the goals via other systems outside of education (I'm thinking of things like social development for kids))
 
