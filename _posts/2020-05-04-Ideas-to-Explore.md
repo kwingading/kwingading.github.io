@@ -8,6 +8,8 @@ I thought it'd be useful to keep a record of ideas that I want to explore furthe
 
 - technocracy as an effective form of government 
 
-- the role of public narratives 
+- the role of public narratives + how memes shape public discourse (and hence policy, world events...) -> traits of a meme with high fecundity
+
+- technological progress (role of individuals, models of funding, state/private sector role...)
 
 - how to reconcile emotion and reason (I often feel a disconnect between the two in terms of 'internalising' arguments/evidence. Emotion tends to be looked down upon as a 'base' means of motivating and understanding arguments, but it's a very powerful force - how do we best leverage it?) 
