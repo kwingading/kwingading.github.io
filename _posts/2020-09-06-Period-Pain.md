@@ -8,9 +8,9 @@ Plan of action:
 - Consume more magnesuim, zinc, Vitamin B6
     - Magnesium rich foods include: dark chocolate, avocado, nuts (almonds, cashews, brazil nuts) and seeds (pumpkin seeds!), legumes (lentils, beans, chickpeas,         peas and soybeans), tofu, whole grains (esp buckwheat and quinoa), fatty fish (salmon, mackerel and halibut), bananas, leafy greens (kale, spinach, collard         greens, turnip greens and mustard greens) [1]
     - Zinc rich foods include: red meat, shellfish, legumes, seeds, nuts, eggs, whole grains... [2]
-    - B6 foods: salmon, tuna, eggs, liver, beef, carrots, spinach, sweet potato, peas, bananas, chick peas, avocado [3]
+    - B6 rich foods: salmon, tuna, eggs, liver, beef, carrots, spinach, sweet potato, peas, bananas, chick peas, avocado [3]
 - Add anti-inflammatory foods into my diet 
-    - Tuermeric (!!), berries, fatty fish, broccoli, avocado, green tea (yeet!), peppers, mushrooms, grapes, cherries, dark chocolate [4]
+    - Turmeric (!!), berries, fatty fish, broccoli, avocado, green tea (yeet!), peppers, mushrooms, grapes, cherries, dark chocolate [4]
 - Minimize consumption of foods that are inflammatory (refined sugar/carbs - potentially wheat! <- rip I love carbs) and histamine-containing (red wine, fermented foods) /stimulating (i.e. dairy, alcohol) 
 - The Classic: Destress!! Sleep well! Exercise!
 
