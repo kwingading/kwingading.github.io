@@ -15,7 +15,7 @@ Reducing PMS apparently requires one to:
 - enhance progesterone
 - limit prostaglandins
 
-Interesting Facts[1]:
+Interesting Facts [1]:
 - It takes 100 days for your follicles to mature from their dormant state all the way to ovulation. If your follicles were unhealthy for any part of that maturation process, the result could be a period problem months later.
 - Eighty percent of your immune system is clustered around your digestion, where it’s in constant communication with your gut and gut bacteria.
 - The conventional anti-inflammatory medication ibuprofen (AdvilⓇ or NurofenⓇ) reduces menstrual flow by half. It works by lowering the prostaglandins that contribute to heavy flow.
