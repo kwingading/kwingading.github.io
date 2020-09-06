@@ -6,7 +6,11 @@ My plan-of-action for the next couple of months is to try a lifestyle-based appr
 
 Plan of action: 
 - Consume more magnesuim, zinc, Vitamin B6
-- Add anti-inflammatory foods like turmeric into my diet
+    - Magnesium rich foods include: dark chocolate, avocado, nuts (almonds, cashews, brazil nuts) and seeds (pumpkin seeds!), legumes (lentils, beans, chickpeas,         peas and soybeans), tofu, whole grains (esp buckwheat and quinoa), fatty fish (salmon, mackerel and halibut), bananas, leafy greens (kale, spinach, collard         greens, turnip greens and mustard greens) [1]
+    - Zinc rich foods include: red meat, shellfish, legumes, seeds, nuts, eggs, whole grains... [2]
+    - B6 foods: salmon, tuna, eggs, liver, beef, carrots, spinach, sweet potato, peas, bananas, chick peas, avocado [3]
+- Add anti-inflammatory foods into my diet 
+    - Tuermeric (!!), berries, fatty fish, broccoli, avocado, green tea (yeet!), peppers, mushrooms, grapes, cherries, dark chocolate [4]
 - Minimize consumption of foods that are inflammatory (refined sugar/carbs - potentially wheat! <- rip I love carbs) and histamine-containing (red wine, fermented foods) /stimulating (i.e. dairy, alcohol) 
 - The Classic: Destress!! Sleep well! Exercise!
 
@@ -15,7 +19,7 @@ Reducing PMS apparently requires one to:
 - enhance progesterone
 - limit prostaglandins
 
-Interesting Facts [1]:
+Interesting Facts [5]:
 - It takes 100 days for your follicles to mature from their dormant state all the way to ovulation. If your follicles were unhealthy for any part of that maturation process, the result could be a period problem months later.
 - Eighty percent of your immune system is clustered around your digestion, where it’s in constant communication with your gut and gut bacteria.
 - The conventional anti-inflammatory medication ibuprofen (AdvilⓇ or NurofenⓇ) reduces menstrual flow by half. It works by lowering the prostaglandins that contribute to heavy flow.
@@ -36,5 +40,8 @@ Interesting Facts [1]:
 
 Wish me luck!
 
-
-[1] The facts are copy-pasted word for word from "Period Repair Manual, Second Edition: Natural Treatment for Better Hormones and Better Periods" (Lara Briden ND and Jerilynn Prior)
+[1] Taken from here: https://www.healthline.com/nutrition/10-foods-high-in-magnesium#section10
+[2] https://www.healthline.com/nutrition/best-foods-high-in-zinc#section11
+[3] https://www.healthline.com/health/vitamin-b6-foods#avocado
+[4] https://www.healthline.com/nutrition/13-anti-inflammatory-foods#section13
+[5] The facts are copy-pasted word for word from "Period Repair Manual, Second Edition: Natural Treatment for Better Hormones and Better Periods" (Lara Briden ND and Jerilynn Prior)
