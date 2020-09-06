@@ -2,16 +2,29 @@ My periods started becoming really painful over a year ago. I suspected that I h
 
 My temporary (and not v sustainable) solution is to take painkillers. During my last two periods, I attempted to brave it like a samurai and see how long I could hold off on the painkillers for. I lasted 5 hours the first time. 10 hours the second time. As you've probably guessed by now, I don't like painkillers. Although they do their job quite well (thank you arcoxia), they don't tackle the root of the problem (which imo is rarely if ever the optimal solution to any problem).
 
-My plan-of-action for the next couple of months is to try a lifestyle-based approach. This was prompted by my reading of ""Period Repair Manual, Second Edition: Natural Treatment for Better Hormones and Better Periods" (Lara Briden ND and Jerilynn Prior)". The title sounds slightly new age-y, but the content itself is top-notch.
+My plan-of-action for the next couple of months is to try a lifestyle-based approach. This was prompted by my reading of ""Period Repair Manual, Second Edition: Natural Treatment for Better Hormones and Better Periods" (Lara Briden ND and Jerilynn Prior)". The title sounds slightly new age-y, but the content itself is top-notch. 
 
-I feel like period pain can be completely avoidable. 
+Plan of -- [1] : 
 
-Interesting Facts[1]:
+- boost GABA
+- -- enhance progesterome
+- limit prostaglandins
+
+Diet: 
+- consume more magnesuim, zinc, Vitamin B6
+- add anti-inflammatory foods like turmeric into my diet
+- minimize consumption of foods that are inflammatory (refined sugar/carbs) and histamine-containing (red wine, fermented foods) /stimulating (i.e. dairy, alcohol ) 
+
+
+Interesting Facts[2]:
 - It takes 100 days for your follicles to mature from their dormant state all the way to ovulation. If your follicles were unhealthy for any part of that maturation process, the result could be a period problem months later
 - Eighty percent of your immune system is clustered around your digestion, where it’s in constant communication with your gut and gut bacteria.
 - The conventional anti-inflammatory medication ibuprofen (AdvilⓇ or NurofenⓇ) reduces menstrual flow by half. It works by lowering the prostaglandins that contribute to heavy flow
+- Migraines are triggered by a drop in estrogen, [263] which is why the premenstrual phase is a dangerous time for migraines.
+- Yet another reason for premenstrual fatigue is the insomnia you might experience as your estrogen and progesterone drop away. Both hormones have direct sleep-enhancing effects [272] and so losing them can disrupt sleep.
 
 
 
 
-[1] The facts are copy-pasted word for word from "Period Repair Manual, Second Edition: Natural Treatment for Better Hormones and Better Periods" (Lara Briden ND and Jerilynn Prior)
+
+[1][2] The facts are copy-pasted word for word from "Period Repair Manual, Second Edition: Natural Treatment for Better Hormones and Better Periods" (Lara Briden ND and Jerilynn Prior)
