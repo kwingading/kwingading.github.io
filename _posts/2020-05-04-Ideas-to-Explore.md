@@ -8,7 +8,7 @@ I thought it'd be useful to keep a record of ideas that I want to explore furthe
 
 - technocracy as an effective form of government 
 
-- the role of public narratives + how memes shape public discourse (and hence policy, world events...) -> traits of a meme with high fecundity
+- the role of public narratives + how memes shape public discourse (and hence policy, world events...) 
 
 - technological progress (role of individuals, models of funding, state/private sector role...)
 
