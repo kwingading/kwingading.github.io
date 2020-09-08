@@ -2,7 +2,7 @@ My periods started becoming really painful over a year ago. I suspected that I h
 
 My temporary (and not v sustainable) solution is to take painkillers. During my last two periods, I attempted to brave it like a samurai and see how long I could hold off on the painkillers for. I lasted 5 hours the first time. 10 hours the second time. As you've probably guessed by now, I don't like painkillers. Although they do their job quite well (thank you arcoxia), they don't tackle the root of the problem (which imo is rarely if ever the optimal solution to any problem).
 
-My plan-of-action for the next couple of months is to try a lifestyle-based approach. This was prompted by my reading of ""Period Repair Manual, Second Edition: Natural Treatment for Better Hormones and Better Periods" (Lara Briden ND and Jerilynn Prior)". The title sounds slightly new age-y, but the content itself is top-notch. My plan is based on their research + recommendations. 
+My plan-of-action for the next couple of months is to try a lifestyle-based approach. This was prompted by my reading of ""Period Repair Manual, Second Edition: Natural Treatment for Better Hormones and Better Periods" (Lara Briden ND and Jerilynn Prior)". The title sounds slightly new age-y, but the content itself is top-notch. My plan is based on their research + recommendations (honestly - why is this not mandatory learning in schools?). 
 
 Plan of action: 
 - Consume more magnesuim, zinc, Vitamin B6
