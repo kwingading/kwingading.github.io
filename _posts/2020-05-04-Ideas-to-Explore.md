@@ -12,4 +12,10 @@ I thought it'd be useful to keep a record of ideas that I want to explore furthe
 
 - technological progress (role of individuals, models of funding, state/private sector role...)
 
+- better birth control tech -  the pill has been around for so long ? - hormone stuff is also quite crude + not great for females
+
+- better health treatments + intervention for period pain, insomnia... → bad for productivity and mental wellbeing
+
+- societal collapse (roman empire, greeks, mayan...)
+
 - how to reconcile emotion and reason (I often feel a disconnect between the two in terms of 'internalising' arguments/evidence. Emotion tends to be looked down upon as a 'base' means of motivating and understanding arguments, but it's a very powerful force - how do we best leverage it?) 
