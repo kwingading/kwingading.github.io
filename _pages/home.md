@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Start Here
 permalink : /home/
 ---
