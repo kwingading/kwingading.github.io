@@ -1,9 +1,9 @@
-
 ---
 layout: default
 title: About
 permalink : /about/
 ---
+
 {% if site.hero == true %}
 	{% include hero.html %}
 {% endif %}
