@@ -29,7 +29,7 @@ Here are some things that I'd gotten up to in the last ~3 years:
 - Spent a summer working at an early-stage startup
     - My primary tasks included 1) designing + conducting a user study → analysing and presenting my findings → translating these into concrete business decisions 2)  designing + implementing the marketing strategy of an early-stage startup
 - Constructed some NLP datasets
-    - MultiSimlex - a "large-scale multilingual resource for lexical semantics"
+    - [Multi-SimLex](https://multisimlex.com/) - a "large-scale multilingual resource for lexical semantics"
     - PoliteInContext: a contextualised politeness dataset inspired by Terkourafi’s frame-based approach to politeness → this was my undergrad thesis so you won't be able to find this online :)
 - Helped organise two Hackathons - always had so much fun during the actual event!
 - More recently: did a research project at the intersection of China and AI strategy for a longtermist think-tank in China
@@ -40,7 +40,7 @@ Here are some things that I'd gotten up to in the last ~3 years:
     - Ballroom dancing (waltz and quickstep)
         - I really wanted to learn Tango but it wasn't in the beginner's training syllabus. I was hoping of trying it this year but COVID-19 happened :(
     - Commercial +/ hip hop
-        - Since COVID, my main source of dance choreographies has been 1 Million dance studio videos. I've v sporadically learnt random 1 Million choreos since high school, but have amped up the frequency of this recently. The studio has started releasing a lot more tutorials than they've used to but most of them aren't free — my typical learning method is finding a mirrored version of the dance on Youtube and slowing it down to 0.5.
+        - Since COVID, my main source of dance choreographies has been [1 Million Dance Studio videos](https://www.youtube.com/c/1MILLIONDanceStudioofficial). I've v sporadically learnt random 1 Million choreos since high school, but have amped up the frequency of this recently. The studio has started releasing a lot more tutorials than they've used to but most of them aren't free — my typical learning method is finding a mirrored version of the dance on Youtube and slowing it down to 0.5.
 
 In a previous life, I wrote a lot of fiction, tried learning a lot of languages and regularly jumped around on ice with very thin blades attached to my feet (with all due seriousness: blades on figure skates are only ~4mm thick which is actually insane). 
 
