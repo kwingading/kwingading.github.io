@@ -46,4 +46,4 @@ In a previous life, I wrote a lot of fiction, tried learning a lot of languages 
 
 Feel free to reach out to me at lkw33cam [at] gmail [dot] com - I love meeting new people! I'm absolutely abysmal at replying messages/emails so please expect a delay in my response (it's nothing personal!). 
 
-Side note: if you're looking for my institutional affiliations, you'll find them on my LinkedIn profile (I try to leave conventional signalling to LinkedIn)
+Side note: if you're looking for my institutional affiliations, you'll find them on my [LinkedIn Profile](https://www.linkedin.com/in/kelly-w-618b5b141/) (I try to leave conventional signalling to LinkedIn)
