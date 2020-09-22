@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
-image: -
+permalink: /about/ 
 ---
 
 Hi there! I'm Kelly :) 
