@@ -21,7 +21,7 @@ Here are some things that I'm focusing on learning right now:
     - I would LOVE to live in Japan at some point! Sapporo would be amazing, as would Kyoto. Saitama seems to have a lot of capybaras though which makes it v v appealing to me
 - Misc: 'jamming' (i.e. improv dancing to trashy music) - mainly during work/study breaks, cooking really good Japanese food (esp rice bowls!)
 
-Here are some things that I'd gotten up to in the last ~3 years:
+Here are some things that I've gotten up to in the last ~3 years:
 
 - Read a lot about Linguistics
     - Areas that I found the most interesting: syntax (! !! !!!), semantics + pragmatics, language acquisition, cognitive neuroscience of language, language acquisition (first and second) → I spot a common theme - do you? Phonetics was super duper fun too, but I didn't find it as gripping as the other sub-disciplines. My only regret was that I didn't learn more about Linguistic typology.
