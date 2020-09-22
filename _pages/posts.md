@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About
-permalink : /about/
+title: Posts
+permalink : /posts/
 ---
 
 {% if site.hero == true %}
