@@ -1,20 +1,21 @@
 ---
 layout: default
-title: Posts
-permalink : /posts/
+title: Start Here
+permalink : /home/
 ---
 
-{% if site.hero == true %}
-	{% include hero.html %}
-{% endif %}
+Greetings wanderer! Welcome to my blog. I'm not sure how you stumbled across this place, but I'm glad that you're here :) 
 
-<div class="container">
-	<div class="row">
-		{% if site.posts.size > 0 %}
-			{% for post in paginator.posts %}
-				{% include article-content.html %}
-			{% endfor %}
-		{% endif %}
-	</div>
-</div>
-{% include pagination.html %}
+What this blog is: 
+
+- a collection of random musings and shower thoughts (which I sporadically update and only v occasionally flesh out)
+- a hodgepodge of written pieces on random topics - from semi-coherent thoughts on AI Diplomacy and Linguistic theory to word vomit about whatever thought is looping through my head
+
+What it is not:
+
+- a repository of very polished and well-researched work
+- a valuable resource teeming with creative and original thoughts
+
+I'll add epistemic statuses to blog posts as I see fit, but take the above as a rule-of-thumb :) 
+
+Happy reading!
