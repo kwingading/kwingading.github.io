@@ -13,7 +13,7 @@ Here are some things that I'm focusing on learning right now:
 - Leveling up in terms of technical skills/knowledge
     - Programming in Python
     - Machine Learning
-    - Statistics (I'm being spoon-fed frequentist stats but I'm also being taught by a die-hard bayesian on the side whom I love v v much)
+    - Statistics (I'm being spoon-fed frequentist stats but I'm also being taught on the side by a die-hard bayesian whom I love v v much)
     - Linear Algebra
 - Reading about AI governance, strategy + diplomacy - especially topics concerning China
     - This is a lot less 'focused' than it sounds as it  involves looking outside of AI (e.g. historical case studies of technological analogues, some meta-science: mega-projects, funding and technological progress...)
