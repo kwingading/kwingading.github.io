@@ -1,3 +1,5 @@
+<span class="post">
+
 *The idea of  individuals playing a big role in championing megaprojects was proposed by my friend [Jasmine](https://jasminew.me/about/). This is me attempting to flesh out her ideas. Please note that this is an exploratory piece/work in progress - super duper rough - but I thought that it'd be interesting to share.* 
 
 **Summary of Hypothesis** 
@@ -96,3 +98,4 @@ However, there are several differences between PEs and MEs that are worth noting
     [7] MEs (list compiled by Jasmine!): Shiro Ishii x Japanese Biowarfare reseach, Yury Ovchinnikov x Biopreparat, Vannevar Bush x Manhattan Project, Sergei Korolev x Russian Space Program, Pan Jianwei x Quantum Computing, Qian Xuesen x Chinese Atomic Bomb, Eric Drexler x Nanotechnology
 
     [8] MMs: General Groves x Manhattan Project, George Mueller x Apollo, Simon Ramo (more widely -TRW, also Schriever?) x ICBMs
+    </span>
