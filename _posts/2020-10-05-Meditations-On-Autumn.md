@@ -4,9 +4,9 @@
 
 October is finally here! This is around the time of year when Keats features (semi-)prominently in my head. Every time I walk through the brilliant landscape of red, orange and yellow, I can hear his words circulating at the back of my mind. 
 
-During my time in Cambridge, I would always take the path through Trinity's backs when returning to my room from town. Once you leave the back gate of college and go over the bridge, you'll find yourself in a path lined with towering trees on either side of you [1]. 
+During my time in Cambridge, I would always take the path through Trinity's backs when returning to my room from town. Upon leaving the back gate of college and travelling over the bridge, I would find myself in a path lined with towering trees on either side [1]. 
 
-The changing of the seasons is always the most obvious here. 
+The changing of the seasons was always the most obvious here. 
 
 ![Tree Walk]({{site.baseurl}}/images/treewalktrin.jpeg)
 *Caption: the Gamboge foliage is gorgeous!*
