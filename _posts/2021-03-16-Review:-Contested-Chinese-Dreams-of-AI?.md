@@ -1,4 +1,4 @@
-Review: Contested Chinese Dreams of AI?
+__Note: This is a review/critique of Zeng et al’s "Contested Chinese Dreams of AI? Public discourse about Artificial intelligence on WeChat and People’s Daily Online" (2020)__
 
 # Introduction
 Understanding public opinion traditionally required the use of polls and interviews. However, the rise of Big Data has paved the way for the use of novel analytical tools and methodological approaches. An example is Zeng et al’s study (2020), which investigates the Chinese public’s opinion on AI by analysing articles from the social medium WeChat. The study is motivated by literature on counterpublic spheres (Downey & Fenton, 2003), which argues that bottom
