@@ -1,6 +1,6 @@
 <span class="post">
 
-*The idea of  individuals playing a big role in championing megaprojects was proposed by my friend [Jasmine Wang](https://jasminew.me/about/). This is me attempting to flesh out her ideas. Please note that this is an exploratory piece/work in progress - super duper rough - but I thought that it'd be interesting to share.* 
+*The idea of  individuals playing a big role in championing megaprojects was proposed by [Jasmine Wang](https://jasminew.me/about/). This is me attempting to flesh out her ideas. Please note that this is an exploratory piece/work in progress - super duper rough - but I thought that it'd be interesting to share.* 
 
 **Summary of Hypothesis** 
 
