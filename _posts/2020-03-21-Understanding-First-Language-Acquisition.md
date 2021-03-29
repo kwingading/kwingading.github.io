@@ -1,7 +1,7 @@
- ---
-  layout: post
-  tags: Linguistics
-  ---
+---
+layout: post
+tag: linguistics
+---
 
 From painstakingly memorising German declension tables to trying to come to grips with Japanese word order, language learning has always been an effortful endeavour for me. I’m sure many of you share the same sentiment. I’ve hence always been baffled by how all children (those with specific impairments aside) manage to learn their first language(s) so effortlessly and quickly despite being less cognitively competent and having a limited amount of non-explicit/opaque linguistic data to work. I eventually hope to do a post comparing first language acquisition and second language acquisition, but I think it’s important to first properly breakdown what “first language acquisition” (henceforth L1A) entails and what a theory of L1A should address.
 
