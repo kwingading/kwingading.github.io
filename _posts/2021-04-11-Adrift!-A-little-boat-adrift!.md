@@ -28,15 +28,20 @@ People close to me are often (rightfully) confused by my recent decision to veer
 
 There is no doubt that my obsession with cultivating and maintaining this ‘prestigious’/competent-sounding image is stunting my development. It has greatly constrained the paths and activities that I allow myself to pursue in fear of being shunned by so-called ‘elite’ society. Keep on the well-trodden path, it tells me, it’ll keep you safe and loved. However, as Taleb highlights, the ‘safe’ option protects you from experiencing a large downside, but also enforces a cap on your upside. In contrast, a riskier option yields much more variable returns as both the bottom and top are uncapped. This makes me think of figure skating. You can stick to clinging on to the side rails (see: mediocrity) or you can give yourself room to fall but grow in the process. Salchow, double salchow, triple, quad — every jump progression comes with a harder and more painful fall (and very many at that), but also the opportunity to soar higher. This brings to mind a Tumblr-style quote that I saw on Gracie Gold’s Instagram when I was 15:
 
-“And you ask "What if I fall?"
+
+> “And you ask "What if I fall?"
 Oh but my darling,
 What if you fly?”” 
+>
 
 ***
 
 My years spent writing essays in academia have taught me that I’m meant to end this piece with a conclusion, preferably with a ‘call-to-action’ of some sort. To be frank, I have no coherent plan detailing my next steps. I’m also not expecting to be able to undo two decades worth of programming within the next month. However, what I do know is that I want to give myself room to be confused, to dive headfirst into wonder and to explore without judgement. In the words of Rilke:
 
-“Allow your judgments their own silent, undisturbed development, which, like all progress, must come from deep within and cannot be forced or hastened. Everything is gestation and then birthing. To let each impression and each embryo of a feeling come to completion, entirely in itself, in the dark, in the unsayable, the unconscious, beyond the reach of one’s own understanding, and with deep humility and patience to wait for the hour when a new clarity is born”
+> “Allow your judgments their own silent, undisturbed development, which, like all progress, must come from deep within and cannot be forced or hastened. Everything is gestation and then birthing. To let each impression and each embryo of a feeling come to completion, entirely in itself, in the dark, in the unsayable, the unconscious, beyond the reach of one’s own understanding, and with deep humility and patience to wait for the hour when a new clarity is born”
+>
+> <cite>Letters to a Young Poet, Rainer Maria Rilke </cite>
+
 
 ***
 
