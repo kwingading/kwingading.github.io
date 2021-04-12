@@ -22,7 +22,7 @@ Over the past couple of years, I've tried multiple times, pen in hand, to disent
 
 I was going to write that I am no longer able to tell between what I want to do and what I should be doing, but that’s a half-lie. The truth is that I am scared. I am scared of digging deep into myself and not liking what I find. In fact, my active avoidance of confronting my inner self is probably because I subconsciously know that my values and desires don’t fully align with any of the sets of expectations I’ve internalised in my life. 
 
-_You like writing?_ “Watch out for GPT-3”. _Reading?_ “Okay, but how does that fit into your 10-year career plan? You're not an aristocrat”. _Learning languages?_ “We’ve got Transformers for that”. _Figure skating?_ “Honey, you’re a bit too old for that now”._ Making heartwarming Chinese and Japanese food?“_ So you want to be a housewife? _Nani?_”
+_You like writing?_ “Watch out for GPT-3”. _Reading?_ “Okay, but how does that fit into your 10-year career plan? You're not an aristocrat”. _Learning languages?_ “We’ve got Transformers for that”. _Figure skating?_ “Honey, you’re a bit too old for that now”. _ Making heartwarming Chinese and Japanese food?“_ So you want to be a housewife? _Nani?_”
 
 People close to me are often (rightfully) confused by my recent decision to veer into the more technical realm. Yes, I’ve always been curious about questions that span across many different disciplines (just look at my eclectic group of subject choices for IB and uni) and yes, people can and should consistently renegotiate their identity [7], but the primary driver of my decision was not curiosity or experimentation — it was the desire to ascend multiple status hierarchies [8], including EA (+ rationality), the wider Tech/SF space and the conventional path™, plus the fear of potentially being automated out of existence within the next decade. My assessment of the high level of prestige associated with those coming from ‘technical backgrounds’ refer more to the first two hierarchies rather than the third [9], though this is rapidly changing in our digital age, as seen by the huge push by governments and various other institutions for STEM education and research. A simple heuristic showing this is how it is much easier to switch into a non-technical role when you have a technical background than vice versa. Note that ascending status hierarchies is not necessarily a bad thing and I don’t want to make it out as such; indeed, there are many other important factors at play, such as financial stability and college debt. It is just that in my case, it has been the root cause behind my various attempts to straitjacket myself into this ‘ideal’, ‘high prestige’, competent-sounding person that is so against my nature, desires and strengths. 
 
@@ -54,11 +54,11 @@ My years spent writing essays in academia have taught me that I’m meant to end
 
 [4]  He attempted to remedy my thoughtlessness by taking me on a walk on Logic Lane for my 21st birthday - clearly didn't work
 
-[5]  See Desai’s [excellent piece](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/)
+[5]  [See Desai’s excellent piece](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/)
 
 [6]  Okay - maybe not completely - I secretly applied to Quest University because it looked super duper cool!
 
-[7]  https://reading.supply/@ava/on-continually-renegotiating-your-identity-LmmJuj
+[7]  [A lovely essay on the subject by Ava](https://reading.supply/@ava/on-continually-renegotiating-your-identity-LmmJuj)
 
 [8]  Obviously mixed in with some degree of curiosity and a desire to have a wider range of possible careers before me - optionality abounds
 
