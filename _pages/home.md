@@ -29,7 +29,7 @@ I've put together an archive of my existing posts below (which I am continuously
 **Personal Reflections**
 - [Adrift! A Little Boat Adrift!](https://kwingading.github.io/2021/04/09/Adrift!-A-little-boat-adrift!/)
 - [Back From The Dead(ish) Just to Daydream About Japan](https://kwingading.github.io/2021/03/01/Back-From-the-Dead(ish)-Just-to-Daydream-about-Japan/)
-- [Meditations of Autumn](https://kwingading.github.io/2020/10/05/Meditations-On-Autumn/)
+- [Meditations on Autumn](https://kwingading.github.io/2020/10/05/Meditations-On-Autumn/)
 - [Doing Nothing](https://kwingading.github.io/2020/04/12/Doing-Nothing/)
 
 **Misc**
