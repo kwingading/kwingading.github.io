@@ -4,7 +4,7 @@ title: Start Here
 permalink : /home/
 ---
 
-Hi there! I'm not sure how you managed to stumble across my blog, but I'm glad that you're here :) 
+Greetings wanderer! I'm not sure how you managed to stumble across my blog, but I'm glad that you're here :) 
 
 What this blog is: 
 
