@@ -29,7 +29,7 @@ Here are some things that I've gotten up to in the last ~3 years:
 - Spent a summer working at an early-stage startup
     - My primary tasks included 1) designing + conducting a user study → analysing and presenting my findings → translating these into concrete business decisions 2)  designing + implementing the marketing strategy of an early-stage startup
 - Constructed some NLP datasets
-    - [Multi-SimLex](https://multisimlex.com/) - a "large-scale multilingual resource for lexical semantics"
+    - [**Multi-SimLex**](https://multisimlex.com/) - a "large-scale multilingual resource for lexical semantics"
     - PoliteInContext: a contextualised politeness dataset inspired by Terkourafi’s frame-based approach to politeness → this was my undergrad thesis so you won't be able to find this online :)
 - Helped organise two Hackathons - always had so much fun during the actual event!
 - More recently: did a research project at the intersection of China and AI strategy for a longtermist think-tank in China
@@ -46,4 +46,4 @@ In a previous life, I wrote a lot of fiction, tried learning a lot of languages 
 
 Feel free to reach out to me at lkw33cam [at] gmail [dot] com - I love meeting new people! I'm absolutely abysmal at replying messages/emails so please expect a delay in my response (it's nothing personal!). 
 
-Side note: if you're looking for my institutional affiliations, you'll find them on my [LinkedIn Profile](https://www.linkedin.com/in/kelly-w-618b5b141/) (I try to leave conventional signalling to LinkedIn)
+Side note: if you're looking for my institutional affiliations, you'll find them on my [**LinkedIn Profile**](https://www.linkedin.com/in/kelly-w-618b5b141/) (I try to leave conventional signalling to LinkedIn)
