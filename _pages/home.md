@@ -27,6 +27,7 @@ I've put together an archive of my existing posts below (which I am continuously
 - [Review: Contested Chinese Dreams of AI?](https://kwingading.github.io/2021/03/16/Review-Contested-Chinese-Dreams-of-AI/)
 
 **Personal Reflections**
+- [On Being Fickle](https://kwingading.github.io/2021/04/18/On-Being-Fickle/)
 - [Adrift! A Little Boat Adrift!](https://kwingading.github.io/2021/04/09/Adrift!-A-little-boat-adrift!/)
 - [Back From The Dead(ish) Just to Daydream About Japan](https://kwingading.github.io/2021/03/01/Back-From-the-Dead(ish)-Just-to-Daydream-about-Japan/)
 - [Meditations on Autumn](https://kwingading.github.io/2020/10/05/Meditations-On-Autumn/)
