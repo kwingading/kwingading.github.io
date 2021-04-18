@@ -27,7 +27,11 @@ Exhibit A: being a top-secret spy still sounds super sexy to me. “What about t
 **Source 2: **The exploration VS exploitation problem
 
 You sort of like this one thing, but what if there is something that you’d enjoy more out there that you haven’t tried? There’s always an upper bound on options that you can test out before it becomes too time-consuming and costly. My thoughts are make exploration as cheap as possible if possible. But at what point do you stop exploring and stop exploiting? 
-““Explore when you will have time to use the resulting knowledge, exploit when you’re ready to cash in.” - algorithms to live by - Griffiths and Christian:
+
+> “Explore when you will have time to use the resulting knowledge, exploit when you’re ready to cash in.” - algorithms to live by - Griffiths and Christian
+>
+> <cite>Griffiths & Christian (Algorithms to Live By)</cite>
+
 Basically, whether you continue exploring vs exploiting depends on the time interval available. This is why we accept fickleness in kids but less so in adults. I’m still trying to figure out the right balance for my case so I’m afraid I don’t have any further useful thoughts about this. 
 
 **Source 3:** The stranglehold of real life
