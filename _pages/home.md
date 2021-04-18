@@ -19,7 +19,7 @@ What it is not:
 
 I'll add epistemic statuses to blog posts as I see fit, but take the above as a rule-of-thumb :) 
 
-I've put together an archive of my existing posts below (which I am continuously updating).
+I've put together an archive of my existing posts below (which I am continuously updating); **each listed title links you to the corresponding post.**
 
 **Short Essays on Random Topics**
 - [Understanding First Language Acquisition](https://kwingading.github.io/2020/03/21/Understanding-First-Language-Acquisition/)
