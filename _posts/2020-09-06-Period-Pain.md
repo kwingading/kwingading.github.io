@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 My periods started becoming really painful over a year ago. I suspected that I had a mild form of endometriosis at some point, but my confidence level in that hypothesis has waned recently. I tried Chinese Medicine last December/January for 4 weeks, but my period in January was excruciating so I stopped. I decided to give it another shot in July/August (3 weeks); my following period was still quite painful but the pain was definitely better. 
 
 My temporary (and not v sustainable) solution is to take painkillers. During my last two periods, I attempted to brave it like a samurai and see how long I could hold off on the painkillers for. I lasted 5 hours the first time. 10 hours the second time. As you've probably guessed by now, I don't like painkillers. Although they do their job quite well (thank you arcoxia), they don't tackle the root of the problem (which imo is rarely if ever the optimal solution to any problem).
