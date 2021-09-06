@@ -1,5 +1,5 @@
 ---
-draft: true
+draft : true
 ---
 
 My periods started becoming really painful over a year ago. I suspected that I had a mild form of endometriosis at some point, but my confidence level in that hypothesis has waned recently. I tried Chinese Medicine last December/January for 4 weeks, but my period in January was excruciating so I stopped. I decided to give it another shot in July/August (3 weeks); my following period was still quite painful but the pain was definitely better. 
