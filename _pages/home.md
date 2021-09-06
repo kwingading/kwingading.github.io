@@ -2,6 +2,7 @@
 layout: page
 title: Start Here
 permalink : /home/
+draft: true
 ---
 
 Greetings wanderer! I'm not sure how you managed to stumble across my blog, but I'm glad that you're here :) 
