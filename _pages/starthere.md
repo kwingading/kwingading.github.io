@@ -23,7 +23,7 @@ I've put together an archive of my existing posts below (which I am continuously
  
 **Short Essays on Random Topics**
 - [Information Privacy in the US, EU and China : Differences in Cultural Conceptions and Regulatory Stringency](https://kwingading.github.io/2021/08/30/Information-Privacy-in-the-US,-EU-and-China-Differences-in-Cultural-Conceptions-and-Regulatory-Stringency/)
-- [Personalised LearningTM — the Future of K-12 Education?](https://kwingading.github.io/2021/06/24/Personalised-LearningTM-the-Future-of-K-12-Education/)
+- [Personalised Learning^TM — the Future of K-12 Education?](https://kwingading.github.io/2021/06/24/Personalised-LearningTM-the-Future-of-K-12-Education/)
 - [Understanding First Language Acquisition](https://kwingading.github.io/2020/03/21/Understanding-First-Language-Acquisition/)
 - [Megaproject Entrepreneurs](https://kwingading.github.io/2020/10/02/Megaproject-Entrepreneurs/)
  
