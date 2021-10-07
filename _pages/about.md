@@ -12,19 +12,15 @@ I'm trying to figure out how I can help usher in humanity's coolest era yet (all
 
 Here are some things that I'm focusing on learning right now: 
 
-- Leveling up in terms of technical skills/knowledge
-    - Programming in Python
-    - Machine Learning
-    - Statistics (I'm being spoon-fed frequentist stats but I'm also being taught on the side by a die-hard bayesian whom I love v v much)
-    - Linear Algebra
+- Figuring out how to build human-like conversational voice assistants 
 - Reading about AI governance, strategy + diplomacy - especially topics concerning China
-    - This is a lot less 'focused' than it sounds as it  involves looking outside of AI (e.g. historical case studies of technological analogues, some meta-science: mega-projects, funding and technological progress...)
 - Picking up Japanese again (something I've neglected in the past 3 years)
     - I would LOVE to live in Japan at some point! Sapporo would be amazing, as would Kyoto. Saitama seems to have a lot of capybaras though which makes it v v appealing to me
 - Misc: 'jamming' (i.e. improv dancing to trashy music) - mainly during work/study breaks, cooking really good Japanese food (esp rice bowls!)
 
 Here are some things that I've gotten up to in the last ~3 years:
 
+- Finally got around to picking up some basic technical skills/knowledge (programming in Python, basic ML and stats --> I was literally spoon-fed frequentist stats but was thankfully taught on the side by a die-hard bayesian whom I love v v much :') )
 - Read a lot about Linguistics
     - Areas that I found the most interesting: syntax (! !! !!!), semantics + pragmatics, language acquisition, cognitive neuroscience of language, language acquisition (first and second) → I spot a common theme - do you? Phonetics was super duper fun too, but I didn't find it as gripping as the other sub-disciplines. My only regret was that I didn't learn more about Linguistic typology.
     - I've also spent a sizable amount of time doing Linguistics-related activities that don't entail actual reading: drawing trees, making weird noises, analysing the speech peculiarities of others... I also gave some Linguistics tutoring lessons to high schoolers hoping to study the subject at uni.
