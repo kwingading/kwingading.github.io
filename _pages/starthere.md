@@ -9,7 +9,7 @@ Hi there! I'm not sure how you managed to stumble across my blog, but I'm glad t
 What this blog is: 
  
 - a collection of random musings and shower thoughts (which I sporadically update and only v occasionally flesh out)
-- a dumping ground for my [existential angst](https://kwingading.github.io/2021/04/18/On-Being-Fickle/) (ft my feeble attempts at sounding poetic - Nabokov is literally rolling in his grave)
+- a dumping ground for my [existential angst](https://kwingading.github.io/2021/04/18/On-Being-Fickle/) 
 - a hodgepodge of written pieces on random topics - from [semi-coherent thoughts](https://kwingading.github.io/2020/10/02/Megaproject-Entrepreneurs/) on [AI Governance](https://kwingading.github.io/2021/08/30/Information-Privacy-in-the-US,-EU-and-China-Differences-in-Cultural-Conceptions-and-Regulatory-Stringency/) and [Linguistic theory](https://kwingading.github.io/2020/03/21/Understanding-First-Language-Acquisition/) to word vomit about whatever thought is looping through my head
 - a place for me to note down some interesting ideas/facts that I've come across
  
