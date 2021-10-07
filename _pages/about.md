@@ -4,7 +4,7 @@ title: About
 permalink: /about/ 
 ---
 
-**Please note that this bio is out of date/in dire need of updating!! **
+**Please note that this bio is kinda out of date**
 
 Hi there! I'm Kelly :) 
 
@@ -33,7 +33,7 @@ Here are some things that I've gotten up to in the last ~4 years:
     - [**Multi-SimLex**](https://multisimlex.com/) - a "large-scale multilingual resource for lexical semantics"
     - PoliteInContext: a contextualised politeness dataset inspired by Terkourafi’s frame-based approach to politeness → this was my undergrad thesis so you won't be able to find this online :)
 - Helped organise two Hackathons - always had so much fun during the actual event!
-- - Learnt about Learning Engineering + hosted an EdTech Careers Fair (w funding from Schmidt Futures)
+- Learnt about Learning Engineering + hosted an EdTech Careers Fair (w funding from Schmidt Futures)
 - More recently: did a research project at the intersection of China and AI strategy for a [**longtermist think-tank in China**](https://concordia-consulting.com/)
     - Actually (sort of) picked up the basics on navigating Chinese cyberspace. Also managed to put my very rusty Chinese reading skills to use. The auto-Google-Translate tool was useful for the first time - it saved me lots of time by translating Chinese texts from simplified to traditional (though I should really learn how to read simplified)
 - Danced danced danced (!!!). I experimented with various different styles:
