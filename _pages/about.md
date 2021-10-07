@@ -15,12 +15,13 @@ I've been thinking a lot about beauty lately — and the dearth of it in modern 
 Here are some other things that I'm focusing on learning right now: 
 
 - Figuring out how to build human-like conversational voice assistants 
+- Getting back into writing~ 
 - Reading about AI governance, strategy + diplomacy - especially topics concerning China
 - Picking up Japanese again (something I've neglected in the past 4 years)
     - I would LOVE to live in Japan at some point! Sapporo would be amazing, as would Kyoto. Saitama seems to have a lot of capybaras though which makes it v v appealing to me
 - Misc: 'jamming' (i.e. improv dancing to trashy music) - mainly during work/study breaks, cooking really good Japanese food (esp rice bowls!)
 
-Here are some things that I've gotten up to in the last ~3 years:
+Here are some things that I've gotten up to in the last ~4 years:
 
 - Finally got around to picking up some basic technical skills/knowledge (programming in Python, basic ML and stats --> I was literally spoon-fed frequentist stats but was thankfully taught on the side by a die-hard bayesian whom I love v v much :') )
 - Read a lot about Linguistics
