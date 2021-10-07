@@ -4,8 +4,6 @@ title: About
 permalink: /about/ 
 ---
 
-**Please note that this bio is kinda out of date**
-
 Hi there! I'm Kelly :) 
 
 I'm trying to figure out how I can help usher in humanity's coolest era yet (all the while making sure that we don't kill ourselves during the process). I'm currently physically based in London 75% of the time and Hong Kong 25% of the time (though I'm always spiritually in some alternate fantasy-cyberpunk version of Edo Japan). 
