@@ -27,6 +27,8 @@ Here are some things that I've gotten up to in the last ~4 years:
 - Read a lot about Linguistics
     - Areas that I found the most interesting: syntax (! !! !!!), semantics + pragmatics, language acquisition, cognitive neuroscience of language, language acquisition (first and second) → I spot a common theme - do you? Phonetics was super duper fun too, but I didn't find it as gripping as the other sub-disciplines. My only regret was that I didn't learn more about Linguistic typology.
     - I've also spent a sizable amount of time doing Linguistics-related activities that don't entail actual reading: drawing trees, making weird noises, analysing the speech peculiarities of others... I also gave some Linguistics tutoring lessons to high schoolers hoping to study the subject at uni.
+- Did a research project at the intersection of China and AI strategy for a [**longtermist think-tank in China**](https://concordia-consulting.com/)
+    - Actually (sort of) picked up the basics on navigating Chinese cyberspace. Also managed to put my very rusty Chinese reading skills to use. The auto-Google-Translate tool was useful for the first time - it saved me lots of time by translating Chinese texts from simplified to traditional (though I should really learn how to read simplified)
 - Spent a summer working at an early-stage startup
     - My primary tasks included 1) designing + conducting a user study → analysing and presenting my findings → translating these into concrete business decisions 2)  designing + implementing the marketing strategy of an early-stage startup
 - Constructed some NLP datasets
@@ -34,8 +36,6 @@ Here are some things that I've gotten up to in the last ~4 years:
     - PoliteInContext: a contextualised politeness dataset inspired by Terkourafi’s frame-based approach to politeness → this was my undergrad thesis so you won't be able to find this online :)
 - Helped organise two Hackathons - always had so much fun during the actual event!
 - Learnt about Learning Engineering + hosted an EdTech Careers Fair (w funding from Schmidt Futures)
-- More recently: did a research project at the intersection of China and AI strategy for a [**longtermist think-tank in China**](https://concordia-consulting.com/)
-    - Actually (sort of) picked up the basics on navigating Chinese cyberspace. Also managed to put my very rusty Chinese reading skills to use. The auto-Google-Translate tool was useful for the first time - it saved me lots of time by translating Chinese texts from simplified to traditional (though I should really learn how to read simplified)
 - Danced danced danced (!!!). I experimented with various different styles:
     - Latin dancing
         - chachacha, jive mainly - but have also done some samba, rumba and paso doble
