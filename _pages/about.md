@@ -12,14 +12,14 @@ I'm trying to figure out how I can help usher in humanity's coolest era yet (all
 
 I've been thinking a lot about beauty lately — and the dearth of it in modern day society :(  I've been trying to make up for it by reading Keats, Kawabata and Nabokov, loitering around St Paul's Cathedral (though my heart yearns for Ryoanji's Zen Rock Garden), gawking at Rubens' Samson and Delilah... etc. So please, if you've come across something beautiful lately and are happy to share, I would love to hear from you.
 
-Here are some other things that I'm focusing on learning right now: 
+Here are some other things that I'm focusing on right now: 
 
 - Getting back into writing~ 
-- Reading about AI governance, strategy + diplomacy - especially topics concerning China
-- Picking up Japanese again (something I've neglected in the past 4 years)
-    - I would LOVE to live in Japan at some point! Sapporo would be amazing, as would Kyoto. Saitama seems to have a lot of capybaras though which makes it v v appealing to me
-- Misc: 'jamming' (i.e. improv dancing to trashy music) - mainly during work/study breaks, cooking really good Japanese food (esp rice bowls!)
 - Figuring out how to build human-like conversational voice assistants (my full time job)
+- Reading about AI governance, strategy + diplomacy - especially topics concerning China
+- Picking up Japanese again (something I've neglected in the past 4 years) -> would love a conversation buddy, so if you're a fluent Japanese speaker, hit me up!
+    - I really *really* want live in Japan at some point! Sapporo would be amazing, as would Kyoto. Saitama seems to have a lot of capybaras though which makes it v v appealing to me
+- Misc: 'jamming' (i.e. improv dancing to trashy music) - mainly during work/study breaks, cooking really good Japanese food (esp rice bowls!)
 
 Here are some things that I've gotten up to in the last ~4 years:
 
