@@ -21,7 +21,7 @@ Here are some other things that I'm focusing on right now (partly aspirational, 
 
 Here are some things that I've gotten up to in the last ~4 years:
 
-- Finally got around to picking up some basic technical skills/knowledge (programming in Python, basic ML and stats --> I was literally spoon-fed frequentist stats but was thankfully taught on the side by a die-hard bayesian whom I love v v much :') )
+- Finally got around to picking up some basic technical skills/knowledge (programming in Python, basic ML and stats --> I was literally spoon-fed frequentist stats but was thankfully taught on the side by a die-hard bayesian)
 - Read a lot about Linguistics
     - Areas that I found the most interesting: syntax (! !! !!!), semantics + pragmatics, language acquisition, cognitive neuroscience of language, language acquisition (first and second) → I spot a common theme - do you? Phonetics was super duper fun too, but I didn't find it as gripping as the other sub-disciplines. My only regret was that I didn't learn more about Linguistic typology.
     - I've also spent a sizable amount of time doing Linguistics-related activities that don't entail actual reading: drawing trees, making weird noises, analysing the speech peculiarities of others... I also gave some Linguistics tutoring lessons to high schoolers hoping to study the subject at uni.
