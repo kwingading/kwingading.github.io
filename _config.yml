@@ -1,4 +1,4 @@
-title: 榮麗淇
+title: kwingading
 #logo: # You can add own logo image.
 #description: #Minimalistic Theme for Jekyll
 baseurl: "" # The subpath of your site, e.g. /blog
@@ -6,7 +6,7 @@ url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author:
-  name: Kelly
+  name: kwingading
   bio: --
 
 # Contact links
