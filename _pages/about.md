@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi there! I'm Kelly :) 
 
-I'm trying to figure out how I can help usher in humanity's coolest and most beautiful era yet (all the while making sure that we don't kill ourselves during the process). I'm currently physically based in London 75% of the time and Hong Kong 25% of the time (though I'm always spiritually in some alternate version of the Heian Imperial Court). 
+I'm trying to figure out how I can help usher in humanity's coolest era yet (all the while making sure that we don't kill ourselves during the process). I'm currently physically based in London 75% of the time and Hong Kong 25% of the time (though I'm always spiritually in some alternate version of the Heian Imperial Court). 
 
 Here are some things that I've gotten up to in the last half a decade:
 
