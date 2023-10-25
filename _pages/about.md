@@ -6,18 +6,11 @@ permalink: /about/
 
 Hi there! I'm Kelly :) 
 
-I'm trying to figure out how I can help usher in humanity's coolest and most beautiful era yet (all the while making sure that we don't kill ourselves during the process). I'm currently physically based in London 75% of the time and Hong Kong 25% of the time (though I'm always spiritually in some alternate version of the Heian Imperial Court engaging in poetic banter - a true aristocrat). 
-
-Here are some things that have been on my mind lately:
-
-- Beauty, also books (of course). I’ve always had a soft spot for beautiful things, especially beautiful writing (see: Nabokov, Wilde, Sei Shōnagon, Flaubert, Homer…). Although I’d read anything I could get my hands on (Tube ads included), my one great love is Japanese literature. Mishima is a mad genius. Ono no Komachi makes my heart sing. Aside from books, I also have a penchant for staring at beautiful buildings and art (literally just staring, I’m no connoisseur). Baroque architecture is great - nothing can beat Kyoto though. The National Gallery is great for the latter. 
-
-- ‘Jamming’ (i.e. improv dancing to trashy music). Anyone who has spent more than an hour with me knows that I can’t keep still when I hear my music. For context, I’ve once been called out for bopping to the sound of the London tube (eheheh). London’s also been a huge enabler in encouraging my dancing addiction. I normally go to Pineapple/Base for Commercial + Hip Hop (and the very occasional wild card class like Chinese dance). Did some Latin+Ballroom dancing for a year back in Uni as well. 
-
-- Figuring out how to build human-like conversational voice assistants and productise this; lots of interactions with clients, scoping, project management on top of that (my full time job) 
+I'm trying to figure out how I can help usher in humanity's coolest and most beautiful era yet (all the while making sure that we don't kill ourselves during the process). I'm currently physically based in London 75% of the time and Hong Kong 25% of the time (though I'm always spiritually in some alternate version of the Heian Imperial Court). 
 
 Here are some things that I've gotten up to in the last half a decade:
 
+- ‘Jamming’ (i.e. improv dancing to trashy music). Anyone who has spent more than an hour with me knows that I can’t keep still when I hear my music. For context, I’ve once been called out for bopping to the sound of the London tube (eheheh). London’s also been a huge enabler in encouraging my dancing addiction. I normally go to Pineapple/Base for Commercial + Hip Hop (and the very occasional wild card class like Chinese dance). Did some Latin+Ballroom dancing for a year back in Uni as well. 
 - Finally got around to picking up some basic technical skills/knowledge (programming in Python, basic ML and stats --> I was literally spoon-fed frequentist stats but was thankfully taught on the side for a bit by a die-hard bayesian)
 - Read a lot about Linguistics
     - Areas that I found the most interesting: syntax (! !! !!!), semantics + pragmatics, language acquisition, cognitive neuroscience of language, language acquisition (first and second) → I spot a common theme - do you? Phonetics was super duper fun too, but I didn't find it as gripping as the other sub-disciplines. My only regret was that I didn't learn more about Linguistic typology.
