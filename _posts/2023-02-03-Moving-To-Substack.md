@@ -1,6 +1,6 @@
 Hello my lovelies - it has been awhile!
 
-I've recently decided to migrate my recent and future writing to <code style="color : cyan">[substack](https://portableonsens.substack.com/)</code>.
+I've recently decided to migrate my recent and future writing to [substack](https://portableonsens.substack.com/).
 
 This move is partly me jumping onto the bandwagon, but also a conscious effort to focus more on sharing and writing for my friends.
 
