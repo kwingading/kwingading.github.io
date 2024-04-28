@@ -1,6 +1,6 @@
 Hello my lovelies - it has been awhile!
 
-I've recently decided to migrate my recent and future writing to [substack](https://portableonsens.substack.com/).
+I've recently decided to migrate my recent and future writing to substack.
 
 This move is partly me jumping onto the bandwagon, but also a conscious effort to focus more on sharing and writing for my friends.
 
