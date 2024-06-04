@@ -1,10 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me ✨
 permalink: /about/ 
 ---
 
-# About Me ✨
 Hi there! I’m Kelly :)
 
 I’m trying to figure out how I can help usher in humanity’s coolest era yet (all the while making sure that we don’t kill ourselves during the process). I’m currently physically based in Hong Kong 75% of the time and Japan 25% of the time (though I’m always spiritually in some alternate version of the Heian Imperial Court).
